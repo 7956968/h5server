@@ -10,8 +10,8 @@
 
 + GPU0占用率17%
 
-![5channel-gpu-cpu](preview\5channel-gpu-cpu-stop.png)
-![5channel-gpu-cpu](preview\5channel-gpu-cpu.png)
+![5channel-gpu-cpu](https://github.com/7956968/h5server/blob/master/preview/5channel-gpu-cpu-stop.png)
+![5channel-gpu-cpu](https://github.com/7956968/h5server/blob/master/preview/5channel-gpu-cpu.png)
 
 ### 1.1  作者测试机器配置
 
