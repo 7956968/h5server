@@ -42,8 +42,8 @@ GPU    GPU-0 : Integrated display chip GPU-1:RTX3070
 ## 4. Technical solution and third-party library introduction
 | component name |illustrate|source |
 | -------- |--------|--------|
-| c++ | c++11 function、lambda等，c++14 optional ||
-| network| 基于yasio/xxsocket修改 |https://github.com/yasio/yasio|
+| c++ | c++11 function、lambda ex，c++14 optional ||
+| network| yasio/xxsocket |https://github.com/yasio/yasio|
 | websocket | wslay|https://github.com/tatsuhiro-t/wslay|
 | flv |libflv|https://github.com/ireader/media-server|
 | 264/265 stream parser |base webrtc,libvideo_stream_parser|https://github.com/chromium/chromium|
