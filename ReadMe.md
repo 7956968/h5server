@@ -1,9 +1,9 @@
 
-# c++高性能264/265实时h5流媒体服务器前后端整体解决方案
+# c++ hight performance 264/265 live h5 media server front & back end solution
 
 
 # README.md
-- en [English](README.md)
+- en [English](ReadMe.md)
 - zh_CN [简体中文](readme/README.zh_CN.md)
 
 ## 1.Preview
@@ -52,4 +52,4 @@ GPU    GPU-0 : Integrated display chip GPU-1:RTX3070
 |front ended|mpegts.js|https://github.com/xqq/mpegts.js|
 
 
-## 9 联系方式：7956968@qq.com, vx:zoopmss
+## 9 contact：7956968@qq.com, vx:zoopmss
